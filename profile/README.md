@@ -40,4 +40,4 @@ disclosure, and fork-policy expectations.
 [ngs]: https://github.com/JavaScriptSolidServer/nostr-git-sync
 [cid]: https://www.w3.org/TR/cid-1.0/
 [lws]: https://www.w3.org/TR/2026/WD-lws10-authn-ssi-cid-20260423/
-[contrib]: ./CONTRIBUTING.md
+[contrib]: https://github.com/JavaScriptSolidServer/.github/blob/gh-pages/CONTRIBUTING.md
