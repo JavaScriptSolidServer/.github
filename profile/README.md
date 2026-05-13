@@ -8,8 +8,7 @@ infrastructure and tooling.
 - **[JSS][jss]** — A minimal, fast, JSON-LD-native Solid server. ESM,
   no native modules, runs on Termux, postmarketOS, and Cloudflare
   Workers.
-- **[jss-git][jss-git]** — Web-based git browser for Solid pods (Preact
-  + isomorphic-git, no build step).
+- **[jss-git][jss-git]** — Web-based git browser for Solid pods (Preact, isomorphic-git, no build step).
 - **[podkey][podkey]** — Nostr-key browser extension for NIP-98
   authentication against Solid pods.
 - **[jss-android][jss-android]** — Native Android pod (work in
@@ -22,7 +21,7 @@ infrastructure and tooling.
 
 - W3C [CID v1.0][cid] — Recommendation. Implemented in JSS pod
   profiles.
-- `did:nostr` — Registered DID method. Native resolution in JSS.
+- [`did:nostr`][did-nostr] — Registered DID method. Native resolution in JSS.
 - W3C [LWS][lws] (Linked Web Storage) — FPWD; JSS implements
   ahead of REC.
 - AGPL-3.0 across all projects.
@@ -39,5 +38,6 @@ disclosure, and fork-policy expectations.
 [gcn]: https://github.com/JavaScriptSolidServer/git-credential-nostr
 [ngs]: https://github.com/JavaScriptSolidServer/nostr-git-sync
 [cid]: https://www.w3.org/TR/cid-1.0/
+[did-nostr]: https://nostrcg.github.io/did-nostr/
 [lws]: https://www.w3.org/TR/2026/WD-lws10-authn-ssi-cid-20260423/
 [contrib]: https://github.com/JavaScriptSolidServer/.github/blob/gh-pages/CONTRIBUTING.md
